@@ -11,14 +11,15 @@ User: Nguyen Huy Binh
 Email: huybinh.ad@gmail.com
 This test used admin one admin
 ## Installation
-b1: git clone project
+buoc 1: git clone project
 `git clone git@github.com:zmerrychristmas/laravel-vue-admin-one-todo-list.git`
-b2: composer install
+
+buoc 2: composer install
 Install composer from link: https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
 
 `compose install`
 
-b3: Update database link
+buoc 3: Update database link
 - In project, i used sqlite db so firstly you should rechange link to sqlite file.
 at file `.env` change
 `
@@ -30,11 +31,12 @@ DB_DATABASE=path/laravel.sqlite
 - Run Database seed
 `php artisan db:seed`
 
-b4: Run vue process and compile styles
+buoc 4: Run vue process and compile styles
 - `npm install`
 - `npm run dev`
 - For better to change and edit: `npm run watch`
-b5: Run project
+
+buoc 5: Run project
 - run by laravel command
 `php artisan serve`
 ### Login info
