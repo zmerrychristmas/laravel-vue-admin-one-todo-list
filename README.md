@@ -7,9 +7,9 @@ This demo used admin one laravel to follow, can login to source project at this 
 https://github.com/vikdiesel/admin-one-laravel-dashboard
 Based on Laravel 7.0
 ## Account
-User: Nguyen Huy Binh
-Email: huybinh.ad@gmail.com
-This test used admin one admin
+- User: Nguyen Huy Binh
+- Email: huybinh.ad@gmail.com
+
 ## Installation
 buoc 1: git clone project
 `git clone git@github.com:zmerrychristmas/laravel-vue-admin-one-todo-list.git`
@@ -39,12 +39,13 @@ buoc 4: Run vue process and compile styles
 buoc 5: Run project
 - run by laravel command
 `php artisan serve`
+
 ### Login info
 — Login: user@example.com
 — Password: secret
 
 — Login(admin): admin@example.com
 — Password: admin
-## License
 
+## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
